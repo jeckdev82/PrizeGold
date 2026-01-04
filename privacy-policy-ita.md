@@ -1,0 +1,89 @@
+# Informativa sulla Privacy - PrizeGold
+
+**Data di entrata in vigore:** 4 Gennaio 2026
+
+## Panoramica
+
+PrizeGold è impegnata nella protezione della tua privacy. Questa Informativa sulla Privacy spiega come raccogliamo, utilizziamo e proteggiamo le tue informazioni quando utilizzi la nostra applicazione per il monitoraggio degli investimenti in oro.
+
+## Informazioni che Raccogliamo
+
+### Dati Memorizzati Localmente sul Tuo Dispositivo
+- Dati del portafoglio investimenti in oro (prezzi di acquisto, quantità, date)
+- Preferenze per gli avvisi sui prezzi e impostazioni notifiche
+- Impostazioni preferenze utente (unità, valuta, orario notifiche)
+- Cache dati storici prezzi per migliorare le prestazioni
+
+### Dati che NON Raccogliamo
+- NON raccogliamo alcuna informazione personale
+- NON richiediamo registrazione utente o account
+- NON memorizziamo alcun dato su server esterni
+- NON monitoriamo il comportamento dell'utente o analytics
+- NON raccogliamo dati di posizione
+- NON accediamo ai tuoi contatti, foto o altri file personali
+
+## Fonti Dati di Terze Parti
+
+### API Prezzi Oro
+- Recuperiamo i dati sui prezzi dell'oro in tempo reale da metalpriceapi.com
+- Questo servizio fornisce prezzi attuali dell'oro e dati storici
+- Nessuna informazione personale viene condivisa con questo servizio
+- Le chiamate API vengono effettuate in modo anonimo
+
+## Archiviazione Dati e Sicurezza
+
+### Solo Archiviazione Locale
+- TUTTI i tuoi dati sono memorizzati esclusivamente sul tuo dispositivo utilizzando il framework sicuro SwiftData di Apple
+- Il tuo portafoglio investimenti e le preferenze non lasciano mai il tuo dispositivo
+- I dati sono protetti dalle funzionalità di sicurezza integrate del dispositivo
+- Non viene utilizzato cloud storage o server esterni
+
+### Backup Dati
+- I tuoi dati possono essere inclusi nel backup iCloud del dispositivo (se abilitato)
+- Questo è gestito interamente dal sistema di backup sicuro di Apple
+- Non abbiamo accesso ai tuoi dati di backup
+
+## Nessun Acquisto In-App o Pubblicità
+
+### Applicazione Premium
+- PrizeGold NON contiene acquisti in-app
+- NESSUNA pubblicità o contenuto promozionale di terze parti
+- NESSUNA monetizzazione o condivisione dati con inserzionisti
+
+## I Tuoi Diritti e Controllo
+
+### Controllo Dati
+- Hai il controllo completo sui tuoi dati
+- Elimina l'app per rimuovere permanentemente tutti i dati memorizzati
+- Non è necessario alcun processo di cancellazione account poiché non vengono creati account
+- I tuoi dati non possono essere recuperati una volta eliminata l'app
+
+### Notifiche
+- Gli avvisi sui prezzi vengono elaborati localmente sul tuo dispositivo
+- Puoi abilitare/disabilitare le notifiche in qualsiasi momento nelle Impostazioni
+- Le preferenze notifiche sono memorizzate solo localmente
+
+## Privacy dei Minori
+
+Questa app non raccoglie consapevolmente informazioni da bambini sotto i 13 anni. Poiché tutti i dati sono memorizzati localmente e non vengono raccolte informazioni personali, l'app è sicura per utenti di tutte le età.
+
+## Modifiche a Questa Informativa
+
+Potremmo aggiornare occasionalmente questa Informativa sulla Privacy. Eventuali modifiche saranno riflesse nell'app e sul nostro sito web. L'uso continuato dell'app costituisce accettazione di eventuali aggiornamenti.
+
+## Informazioni di Contatto
+
+Per domande o preoccupazioni relative alla privacy, contattaci a:
+**Email:** jeck.dev82@gmail.com
+
+## Conformità
+
+Questa informativa sulla privacy è progettata per conformarsi a:
+- Linee Guida App Store di Apple
+- Regolamento Generale sulla Protezione dei Dati (GDPR)
+- California Consumer Privacy Act (CCPA)
+- Children's Online Privacy Protection Act (COPPA)
+
+---
+
+**Riassunto:** PrizeGold è un'applicazione incentrata sulla privacy che memorizza tutti i dati localmente sul tuo dispositivo. Non raccogliamo informazioni personali, non utilizziamo pubblicità o condividiamo dati con terze parti. Gli unici dati esterni che accediamo sono informazioni anonime sui prezzi dell'oro per fornirti i tassi di mercato attuali.
